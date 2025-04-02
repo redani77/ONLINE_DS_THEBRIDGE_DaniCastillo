@@ -1,7 +1,7 @@
-<h1 align="center">🔄 LEAD SCORING 🔄</h1>
+🔄 LEAD SCORING 🔄
 
 
-## <div align="center"> 🤖 PROYECTO MACHINE LEARNING ​​🤖</div>
+🤖 PROYECTO MACHINE LEARNING ​​🤖
 
 
 
@@ -56,8 +56,7 @@ Serialización del modelo entrenado.
 🚀 Instalación y Uso 🚀
 
 Clona el repositorio:
-git clone https://github.com/tuusuario/Lead-Scoring-ML.git
-cd Lead-Scoring-ML
+git clone https://github.com/redani77/ONLINE_DS_THEBRIDGE_DaniCastillo/tree/main/ML_LEADSCORING.git
 
 Instala las dependencias:
 pip install -r requirements.txt

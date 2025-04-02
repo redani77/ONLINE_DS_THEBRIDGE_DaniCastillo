@@ -1,0 +1,82 @@
+🔄 LEAD SCORING 🔄
+🤖 PROYECTO MACHINE LEARNING ​​🤖
+
+
+📊 Descripción del Proyecto 📊
+
+Este proyecto tiene como objetivo implementar un sistema de Lead Scoring utilizando Machine Learning para calificar y priorizar prospectos en función de su probabilidad de conversión en clientes. 
+
+🎯 Objetivos del Proyecto 🎯
+A través de un modelo predictivo, ayudamos a los equipos de ventas y marketing a enfocarse en los leads con mayor potencial, optimizando los esfuerzos y mejorando la tasa de conversión.
+Implementar  modelos supervisados.
+
+🔧 Tecnologías Utilizadas
+Lenguaje: Python
+Bibliotecas principales: pandas, numpy, scikit-learn, XGBoost, matplotlib, seaborn
+Entorno: Jupyter Notebook / Visual Studio Code
+
+🛠️ Estructura del Proyecto 🛠️
+
+📂 Estructura del Repositorio 📂
+
+└── src                                          # Código fuente del proyecto
+    ├── data                                   # Datos crudos y procesados
+    ├── models                              # Modelos entrenados y serializados
+    ├── result_notebooks             # Notebooks final
+    ├── notebooks                        # Notebooks con análisis y experimentación
+    └── utils                                   # Funciones auxiliares
+├── README.md                        # Documentación del proyecto
+
+📘 Flujo de Trabajo 📘
+
+Carga y exploración de datos
+Limpieza y preprocesamiento.
+Identificación de valores atípicos y nulos.
+Análisis exploratorio de datos (EDA)
+Estudio de distribuciones y correlaciones.
+Eliminación de variables irrelevantes.
+Transformación de datos
+One-Hot Encoding para variables categóricas.
+Min-Max Scaling para variables numéricas.
+Selección de variables
+Evaluación con Recursive Feature Elimination (RFE) y Permutation Importance.
+Entrenamiento de Modelos
+Modelos evaluados: XGBoost, Random Forest, Regresión Logística.
+Optimización de hiperparámetros con Grid Search.
+Evaluación y Selección del Modelo Final
+Métrica utilizada: AUC.
+Modelo elegido: Random Forest (AUC = 0.884).
+Producción y Despliegue
+Creación de pipeline de preprocesamiento y predicción.
+Serialización del modelo entrenado.
+
+🚀 Instalación y Uso 🚀
+
+Clona el repositorio:
+git clone https://github.com/tuusuario/Lead-Scoring-ML.git
+cd Lead-Scoring-ML
+
+Instala las dependencias:
+pip install -r requirements.txt
+
+Ejecuta el script de entrenamiento:
+python src/script.py
+
+Para hacer predicciones, usa:
+from src.modeling import predict
+predict(nuevos_datos)
+
+
+📊 Resultados y Conclusiones 📊
+
+La implementación del modelo de Random Forest mejoró la eficiencia en la clasificación de leads.
+
+La optimización de hiperparámetros permitió alcanzar un AUC de 0.884.
+
+Se automatizó el proceso de scoring para facilitar su uso en entornos de producción.
+
+💙 Agradecimientos
+
+Agradecemos a todos los colaboradores de The Bridge por el apoyo y las herramientas para hacer posible este proyecto.
+
+💪 Desarrollado por Dani Castillo

@@ -2,27 +2,6 @@
 
 ## 🤖 PROYECTO MACHINE LEARNING 🤖
 
-<h1 align="center">🔄 ML Pipelines - Team Challenge 🔄</h1>
-
-## <div align="center"> 🤖 Modelos Supervisados y No Supervisados 🤖</div>
-
-### <div align="center">📊 Descripción del Proyecto 📊</div>
-
-Este Team Challenge se centra en la práctica y construcción de **Pipelines de Scikit-learn** para procesar datos, entrenar modelos y evaluar su rendimiento de manera eficiente y reproducible. 
-
-El objetivo es encapsular los pasos de preprocesamiento y modelado dentro de pipelines, aprovechando sus ventajas en **validación cruzada**, **prevención de data leakage** y **optimización de hiperparámetros**.
-
--------------------------
-
-### 🎯 **Objetivos del Proyecto** 🎯
-
-1. Implementar **Pipelines completos** para modelos **supervisados y no supervisados**.
-2. Aplicar **OneHotEncoder** para manejar variables categóricas sin errores entre conjuntos de entrenamiento y prueba.
-3. Utilizar **validación cruzada** para evaluar modelos y demostrar sus ventajas al usar pipelines.
-4. Optimizar hiperparámetros mediante **GridSearchCV**.
-5. Opcional: Implementar el proyecto en **entornos virtuales** con archivos `requirements.txt` y `.gitignore`.
-
--------------------------
 
 ## 📊 Descripción del Proyecto 📊
 

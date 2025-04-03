@@ -16,9 +16,11 @@ A través de un modelo predictivo, ayudamos a los equipos de ventas y marketing 
 
 ---
 
-## 🔧 VIDEO-PRESENTACIÓN 🔧
+## 🔧 PRESENTACIÓN PROYECTO🔧
 
 [📂 VIDEO-PRESENTACIÓN ](https://drive.google.com/file/d/1-OowQzXKAwdfVXozicXQODIETQFEIoHn/view?usp=drive_link)
+[📂 PRESENTACIÓN ](https://drive.google.com/file/d/1oZNnsdjbJv_3kVSKBbRBSIKzsh8qKobU/view?usp=drive_link)
+
 
 ---
 

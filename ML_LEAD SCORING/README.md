@@ -1,4 +1,4 @@
-![Mi imagen]([imagenes/mi_imagen](https://github.com/redani77/ONLINE_DS_THEBRIDGE_DaniCastillo/blob/main/ML_LEAD%20SCORING/01_src/02_img/1714490532432.png)
+![Mi imagen](https://github.com/redani77/ONLINE_DS_THEBRIDGE_DaniCastillo/blob/main/ML_LEAD%20SCORING/01_src/02_img/1714490532432.png)
 
 <h1 align="center">🔄 LEAD SCORING 🔄</h1>
 

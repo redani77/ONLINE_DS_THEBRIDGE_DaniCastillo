@@ -76,8 +76,8 @@ A través de un modelo predictivo, ayudamos a los equipos de ventas y marketing 
 
 ## 🚀 Instalación y Uso 🚀
 
-### Clona el repositorio:
 ```bash
+### Clona el repositorio:
 git clone https://github.com/redani77/ONLINE_DS_THEBRIDGE_DaniCastillo/tree/main/ML_LEADSCORING.git
 
 ### Instala las dependencias:

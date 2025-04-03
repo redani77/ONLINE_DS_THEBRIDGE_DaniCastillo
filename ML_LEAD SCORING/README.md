@@ -79,20 +79,15 @@ A través de un modelo predictivo, ayudamos a los equipos de ventas y marketing 
 ### Clona el repositorio:
 ```bash
 git clone https://github.com/redani77/ONLINE_DS_THEBRIDGE_DaniCastillo/tree/main/ML_LEADSCORING.git
-```
 
 ### Instala las dependencias:
-```bash
 pip install -r requirements.txt
-```
 
 ### Ejecuta el script de entrenamiento:
-```bash
 python src/script.py
-```
 
 ### Para hacer predicciones, usa:
-```python
+python
 from src.modeling import predict
 predict(nuevos_datos)
 ```

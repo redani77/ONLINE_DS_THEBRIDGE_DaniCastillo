@@ -1,7 +1,6 @@
-# 🔄 LEAD SCORING 🔄
+<h1 align="center">🔄 LEAD SCORING 🔄</h1>
 
-## 🤖 PROYECTO MACHINE LEARNING 🤖
-
+## <div align="center">  🤖 PROYECTO MACHINE LEARNING 🤖 </div>
 
 ## 📊 Descripción del Proyecto 📊
 

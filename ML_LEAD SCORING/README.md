@@ -98,10 +98,10 @@ predict(nuevos_datos)
 
 ---
 
-## 💙 Agradecimientos
+## 💙 Agradecimientos 💙
 
 Agradecemos a todos los colaboradores de **The Bridge** por el apoyo y las herramientas para hacer posible este proyecto.
 
 ---
 
-## 💪 Desarrollado por **Dani Castillo**
+## 💪 Desarrollado por **Dani Castillo** 💪

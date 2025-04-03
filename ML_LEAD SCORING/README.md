@@ -1,3 +1,5 @@
+![Mi imagen](imagenes/mi_imagen.png)
+
 <h1 align="center">🔄 LEAD SCORING 🔄</h1>
 
 ## <div align="center">  🤖 PROYECTO MACHINE LEARNING 🤖 </div>
